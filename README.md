@@ -15,3 +15,5 @@ As melhores palestras dos dias de evento foram:
 Estas anotações são muito mais *logs* ou *resumos* do que anotações (essas eu às vezes faço em outros lugares, como o aplicativo `Google Keep`).
 
 Algumas das palestras vêm se repetindo de ano em ano, portanto, talvez não necessariamente valha a pena vê-las todos os anos.
+
+Nem todos os **slides** foram disponibilizados infelizmente...
